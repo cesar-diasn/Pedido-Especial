@@ -37,7 +37,7 @@
     <div class="container">
         <div class="hearts top-left">❤️❤️❤️</div>
         <div class="hearts top-right">❤️❤️❤️</div>
-        <h1>Eu te amo!<br>Quer namorar comigo?</h1>
+        <h1>Eu te amo!<br>Aceita namorar comigo?</h1>
         <div class="hearts bottom-left">❤️❤️❤️</div>
         <div class="hearts bottom-right">❤️❤️❤️</div>
     </div>
